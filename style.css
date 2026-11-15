@@ -28,7 +28,7 @@ body {
   background-color: white;
   width: 600px;
   display: flex;
-  margin: 60px auto;
+  margin: 200px auto;
   border-radius: 30px;
 }
 
@@ -173,5 +173,5 @@ body {
   text-align: center;
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: var(--Cobalt-blue);
 }
